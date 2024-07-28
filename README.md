@@ -1,2 +1,1 @@
-Hello, Hexlet!
-one
+Hello, Hexlet! How are you?
