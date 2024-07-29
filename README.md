@@ -1,1 +1,3 @@
-Hello, Hexlet! How are you?
+Hexlet научил меня пользоваться vim'ом!
+ Привет, Git! Это Эдмарт.
+
