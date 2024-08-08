@@ -1,0 +1,14 @@
+{
+    "name": "edmart/empty",
+    "autoload": {
+        "psr-4": {
+            "Edmart\\Empty\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edmart"
+        }
+    ],
+    "require": {}
+}
