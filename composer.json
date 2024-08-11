@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Edmart\\Empty\\": "src/"
-        }
+        },
+        "files":[
+                "src/Runner.php"
+                ]
     },
     "authors": [
         {
