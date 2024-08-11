@@ -14,7 +14,8 @@
         }
     ],
 	"scripts": {
-    "phpcs": "phpcs"
+    "phpcs": "phpcs",
+    "test" : "echo hi"
   },
     "require": {
         "illuminate/collections": "^11.20"
